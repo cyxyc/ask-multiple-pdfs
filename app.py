@@ -17,6 +17,8 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import os
+
+#ten key dat pak bokem
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
 
